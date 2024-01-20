@@ -1,0 +1,6 @@
+{
+  "UniqueName": "Sorwest.MikuEnemy",
+  "Version": "1.0.0",
+  "RequiredApiVersion": "0.1.0",
+  "EntryPointAssembly": "MikuEnemy.dll"
+}
